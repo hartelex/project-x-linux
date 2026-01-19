@@ -1,0 +1,90 @@
+# =========================
+
+# Build artifacts
+
+# =========================
+
+*.iso
+*.img
+*.squashfs
+*.qcow2
+*.vdi
+*.vmdk
+
+/build/
+/out/
+/dist/
+/iso/
+/live-build/build/
+
+# =========================
+
+# Package caches
+
+# =========================
+
+*.deb
+*.udeb
+/apt-cache/
+/var-cache-apt/
+cache/
+
+# =========================
+
+# live-build / cubic junk
+
+# =========================
+
+config/chroot/var/cache/apt/
+config/chroot/tmp/
+config/chroot/var/log/
+config/chroot/root/.bash_history
+
+# =========================
+
+# Logs and temp files
+
+# =========================
+
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.tmp/
+temp/
+
+# =========================
+
+# VM / emulator files
+
+# =========================
+
+*.ova
+*.ovf
+*.nvram
+
+# =========================
+
+# Editor / OS files
+
+# =========================
+
+.vscode/
+.idea/
+*.kate-swp
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Secrets (never commit)
+
+# =========================
+
+.env
+*.key
+*.pem
+*.crt
+id_rsa
+id_rsa.pub
