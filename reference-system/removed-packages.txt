@@ -1,5 +1,12 @@
 ### removed
 snapd
+yelp
+ibus
+gedit-common
+gedit
+keditbookmarks
+yudit-common
+kdeconnect
 
 ### disabled
 udisks2
