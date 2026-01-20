@@ -17,3 +17,4 @@ postfix
 apport
 multipath-tools
 popularity-contest
+imagemagick-*
