@@ -112,4 +112,4 @@ RuntimeMaxUse=10M
   * Daily use
   * Rescue environments
 
-This document defines the official idle memory baseline for Project-X-Linux Phase 1.
+This document defines the official idle memory baseline for LeanLTS Phase 1.

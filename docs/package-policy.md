@@ -1,4 +1,4 @@
-# Project-X-Linux Package Policy
+# LeanLTS Package Policy
 
 ## 1. Core System (always installed)
 

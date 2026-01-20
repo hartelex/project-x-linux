@@ -1,6 +1,6 @@
-# Project-X-Linux
+# LeanLTS
 
-Project-X-Linux is a lightweight, Ubuntu-based Linux distribution designed for old laptops and virtual machines. It focuses on simplicity, low resource usage, and reliability while remaining suitable for daily use and basic system rescue tasks.
+LeanLTS is a lightweight, Ubuntu-based Linux distribution designed for old laptops and virtual machines. It focuses on simplicity, low resource usage, and reliability while remaining suitable for daily use and basic system rescue tasks.
 
 ## Key Features
 
