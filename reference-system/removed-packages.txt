@@ -8,3 +8,12 @@ systemd-resolved
 
 ### limited
 journald
+
+### purged
+cloud-init 
+cloud-guest-utils 
+cloud-initramfs-growroot
+postfix
+apport
+multipath-tools
+popularity-contest
