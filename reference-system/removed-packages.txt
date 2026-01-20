@@ -1,0 +1,10 @@
+### removed
+snapd
+
+### disabled
+udisks2
+multipathd
+systemd-resolved
+
+### limited
+journald
