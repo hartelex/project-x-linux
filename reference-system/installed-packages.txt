@@ -1,1 +1,1 @@
-vim xorg openbox xfce4-terminal pcmanfm tint2
+vim xorg openbox xfce4-terminal pcmanfm tint2 lxpolkit

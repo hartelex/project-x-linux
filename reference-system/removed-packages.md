@@ -25,3 +25,13 @@ apport
 multipath-tools
 popularity-contest
 imagemagick-*
+gnome-shell 
+gnome-session 
+gnome-settings-daemon 
+gnome-control-center 
+nautilus 
+gnome-menus 
+gnome-keyring
+policykit-1-gnome
+gvfs-daemons 
+gvfs-common
